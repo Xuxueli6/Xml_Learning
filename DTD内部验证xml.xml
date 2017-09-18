@@ -22,6 +22,7 @@
 	<Book id="">
 		<title></title>
 		<Author></Author>
+		<Price></Price>
 		<Publisher></Publisher>
 		<Cost></Cost>
 	</Book>
