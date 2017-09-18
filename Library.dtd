@@ -1,0 +1,17 @@
+<!DOCTYPE Library
+[
+<!ELEMENT Library (Book,Member)>
+<!ELEMENT Book (title,Author,Publisher,Cost)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT Author (#PCDATA)>
+<!ELEMENT Publisher (#PCDATA)>
+<!ELEMENT Cost (#PCDATA)>
+<!ELEMENT Member (Name,Address)>
+<!ELEMENT Name (FirstName,MiddleName,LastName)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT MiddleName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT Address (HouseNumber,Street,City)>
+<!ELEMENT HouseNumber (#PCDATA)>
+<!ELEMENT City (#PCDATA)>
+]>
