@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312"?>
+<?xml-stylesheet type="text/xsl" href="Test.xsl"?>
+<bookstore>
+	<book>
+		<title>Java编程</title>
+		<author>Jason</author>
+		<price>30</price>
+	</book>
+	<book>
+		<title>Andorid开发</title>
+		<author>Harry</author>
+		<price>50</price>
+	</book>
+	<book>
+		<title>Ios开发</title>
+		<author>Jack</author>
+		<price>37</price>
+	</book>
+</bookstore>
